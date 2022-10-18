@@ -1,10 +1,11 @@
-write blog with inheritance examples
+In Blog
 
-try to push in terminal
+3 types of Inheritance with Examples
 
-git in linux terminal search this and find how to push using terminal in youtube or git
+And Why Multiple Inheritance won't work in Java
 
-install sololearn and learn java course.
+Why Overriding, What is Overriding with examples
 
+refer this Video to generate Token for git 
 
-
+https://www.youtube.com/watch?v=gJv0PcfUXE8&t=1352s
